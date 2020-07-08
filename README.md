@@ -23,4 +23,5 @@ Hypothesis Testing | Invalid | Invalid | Invalid | Invalid
 Conclusion:
 
 If Application permits 2 models - Use Denoising AutoEncoder + Standard Model
+
 If only 1 model is feasable - Use Dropout (find values using gridsearch)
